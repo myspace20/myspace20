@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roger Dankudi Satsi</h1>
-<h3 align="center">A passionate frontend developer from Roger</h3>
+<h3 align="center">A passionate frontend developer from Accra, Ghana 🇬🇭</h3>
 
 - 🔭 I’m currently working on **My Quiz App**
 
 - 🌱 I’m currently learning **Firebase and Tailwinds**
 
-- 👯 I’m looking to collaborate on **All kinds of projects**
+- 👯 I’m looking to collaborate on **all kinds of projects**
 
 - 💬 Ask me about **React, JavaScript and Python**
 
