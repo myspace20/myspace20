@@ -1,3 +1,3 @@
 
 #### Software Engineer
- `TypeScript`, `JavaScript`, `React`, `Express`, `Node`, `Go`. `Rust`
+ `TypeScript`, `JavaScript`, `React`, `Express`, `Node`, `Go`
